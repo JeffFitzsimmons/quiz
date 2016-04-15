@@ -21,7 +21,7 @@ var quizJSON = {
             "q": "Physics question 2",
             "a": [
                 {"option": "Answer 1",     "correct": true},
-                {"option": "Answer 2",     "correct": false},
+                {"option": "Answer 2",     "correct": true},
                 {"option": "Answer 3",     "correct": false},
                 {"option": "Answer 4",     "correct": false} // no comma here
             ],
