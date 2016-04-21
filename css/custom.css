@@ -11,6 +11,15 @@ body {
     text-align: center;
 }
 
+.supsub {
+   display: inline-block;
+   margin: -9em 0;
+   vertical-align: -0.55em;
+   line-height: 1.35em;
+   font-size: 70%;
+   text-align: left;
+}
+
 .home-container {
     max-width: 700px;
 }
