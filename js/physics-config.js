@@ -7,7 +7,7 @@ var quizJSON = {
     },
     "questions": [
         { // Question 1 -
-            "q": "Physics question 1",
+            "q": "Physics question 1 with only 1 correct answer",
             "a": [
                 {"option": "Answer 1",     "correct": true},
                 {"option": "Answer 2",     "correct": false},
@@ -18,7 +18,7 @@ var quizJSON = {
             "incorrect": "<p><span>That's incorrect.</span></p><br>" // no comma here
         },
         { // Question 2 -
-            "q": "Physics question 2",
+            "q": "Physics question 2 with two correct answers",
             "a": [
                 {"option": "Answer 1",     "correct": true},
                 {"option": "Answer 2",     "correct": true},

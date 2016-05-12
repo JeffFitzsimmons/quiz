@@ -114,7 +114,7 @@ var quizJSON = {
                 {"option": "O<span class='supsub'>2<br/>2</span><sup>-</sup>",  "correct": true} // no comma here
             ],
             "correct": "<p><span>That's right!</span> Nice job.</p><br>",
-            "incorrect": "<p><span>That's incorrect.</span> The answer is O<span class='supsub'>2<br/>2</span><sup>-</sup></p><br>" // no comma here
+            "incorrect": "<p><span>That's incorrect.</span> The answer is O<sub>2</sub><sup>2-</sup></p><br>" // no comma here
         },
         { // Question 11 -
             "q": "What is the chemical formula for Cyanide?",
@@ -389,7 +389,7 @@ var quizJSON = {
                 {"option": "Hg<span class='supsub'>2<br/>2</span><sup>+</sup>", "correct": true} // no comma here
             ],
             "correct": "<p><span>That's right!</span> Nice job.</p><br>",
-            "incorrect": "<p><span>That's incorrect.</span> The answer is Hg<span class='supsub'>2<br/>2</span><sup>+</sup></p><br>" // no comma here
+            "incorrect": "<p><span>That's incorrect.</span> The answer is Hg<sub>2</sub><sup>2+</sup></p><br>" // no comma here
         }
     ]
 };
